@@ -1,0 +1,23 @@
+weapons:
+  sword:
+    material: DIAMOND_SWORD
+    name: "&5Меч Эндермена"
+    cooldown: 30
+    lore:
+      - "&7ПКМ — телепорт вперёд"
+  crossbow:
+    material: CROSSBOW
+    name: "&bАрбалет Хранителя"
+    cooldown: 15
+    lore:
+      - "&7Стрелы взрываются"
+  staff:
+    material: NETHERITE_SWORD
+    name: "&4Посох Смерти"
+    cooldown: 60
+    lore:
+      - "&7ПКМ — призыв духов"
+
+messages:
+  ready: "&a✔ Скилл готов"
+  cooldown: "&c⏳ КД: %time% сек."

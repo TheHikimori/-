@@ -1,0 +1,8 @@
+name: LegendaryWeapons
+version: 1.3
+main: me.legend.legendary.LegendaryWeapons
+api-version: 1.21
+commands:
+  givelegend:
+    description: Give legendary weapon
+    permission: legendary.admin

@@ -1,0 +1,4 @@
+me\legend\legendary\items\LegendaryItemFactory.class
+me\legend\legendary\listeners\WeaponListener.class
+me\legend\legendary\LegendaryWeapons.class
+me\legend\legendary\commands\GiveLegendCommand.class
